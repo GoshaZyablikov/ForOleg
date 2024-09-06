@@ -1,0 +1,18 @@
+
+Œ	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ªÃàJ$e01df352-cd22-4bbe-8bea-2623c725bc32
+‘	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À»ø†ùÿÿÿÿJ$72a75728-e843-4a86-a529-ecfd63fe0233
+‘	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úµ»øÿÿÿÿJ$958eb202-baef-486a-9e83-5cda97efd3e1
+Œ	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö—¬…J$10b316fe-6726-4b20-801d-fc4212a1440e
+‘	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôîıòúÿÿÿÿJ$d5b37769-4352-4648-9e49-633329edc681
+‘	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞñâÿÿÿÿÿJ$6403ad2b-dc70-468f-a416-5caf3a208027
+‹	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ñ¦J$f63f8703-eeee-4282-94ae-351b6cfb6842
+Œ	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ–ó‚J$8183b19f-1ae2-4c6a-95a4-f08b54e1906e
+Œ	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞØ®ËJ$a99c2492-31e2-4f00-88b7-320255fab2b3
+Œ	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·¢²J$e4e94af4-b6e7-4e95-87fc-5a012954da2b
+‘	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÓœîüÿÿÿÿJ$d37f8e51-cee7-4687-9280-1d1904662b28
+‹	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½µ@J$a0939767-4be7-4fc3-8af6-3332cd534785
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê†›J$68a7e3ea-b029-4ce8-9448-192c6b867ff4
+e
+java:S1905A")Remove this unnecessary cast to "Object".(“öººJ$5cb5e2b1-4c92-4d37-9716-7ab85c6a2295
+‚
+java:S1126M"AReplace this if-then-else statement by a single return statement.(ŒÊ¼ßúÿÿÿÿJ$cd6a808f-9fa0-469f-ba30-c1abae3c65ca

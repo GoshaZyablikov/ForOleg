@@ -1,0 +1,29 @@
+
+s
+java:S1066ï"/Merge this if statement with the enclosing one.(ÛØÔœ8¨¶½œ2J$470e175e-a5f2-4b06-b36a-ca8c22705930
+s
+java:S1066û"/Merge this if statement with the enclosing one.(ÛØÔœ8©¶½œ2J$81f8d77d-06b5-4081-91b4-48435b16313d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëª÷èúÿÿÿÿ8Ú‚¼¼œ2J$778db9b5-a6c6-4ac5-ab95-9c6c48dde23a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Šƒ¼¼œ2J$89228bd6-36dc-4fde-90df-de0f642a606b
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Šƒ¼¼œ2J$8f05f946-8f98-4d6a-a6b6-03631827f03a
+	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¼Á±8¤¦«½œ2J$ec34062d-5c8f-402c-95ac-1c2c64570fdd
+¾
+java:S6204š"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Á‘¶½œ2J$23266f6e-6df4-40d1-adcc-cc79d4a9f31c
+n	java:S106Î"+Replace this use of System.err by a logger.(ôÇñ‘8É‘¶½œ2J$a97cef8c-d71c-47e4-b48d-58f693365a44
+n	java:S106Ñ"+Replace this use of System.err by a logger.(ŠÆÇ‹8Ì‘¶½œ2J$f4b407fe-855e-47e9-935f-b744132465ce
+–
+java:S1871ä"MThis branch's code block is the same as the block for the branch on line 226.(Î§Èêüÿÿÿÿ8Ó‘¶½œ2J$a5fe10d1-c24e-4c46-ad22-de5d86577090
+o
+java:S2175ï"+A "List<Integer>" cannot contain a "Short".(ÛØÔœ8Õ‘¶½œ2J$6b210928-ab84-45e9-9306-07505c780e85
+o
+java:S2175û"+A "List<Integer>" cannot contain a "Short".(ÛØÔœ8Ö‘¶½œ2J$0b886ff2-c3e6-4d6b-b907-733996a8c7ef
+
+java:S1128"VRemove this unused import 'com.rw.orderbuilder.Model.CombinedPersonnelFlightModelDTO'.(¤û”®ùÿÿÿÿ8‘‚½œ2J$dcfa26dc-5376-49b2-bf1a-d7055fbc713b
+
+java:S1128"GRemove this unused import 'com.rw.orderbuilder.Model.PersonnelDataDTO'.(‘ å¦úÿÿÿÿ8‘‚½œ2J$480131ee-b29f-46ca-a0ed-3daa1544b7fe
+
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8‘‚½œ2J$d324fa6d-9c99-4271-a12b-3a4e41c8a324
+y
+java:S1128"1Remove this unused import 'java.beans.Transient'.(–É³ÿÿÿÿÿ8‘‚½œ2J$940c7d20-13f9-46a4-93e0-9dc25371c352

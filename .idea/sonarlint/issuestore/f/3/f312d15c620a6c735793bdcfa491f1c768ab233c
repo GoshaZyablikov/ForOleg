@@ -1,0 +1,7 @@
+
+˜
+java:S1128"URemove this unused import 'org.springframework.boot.autoconfigure.domain.EntityScan'.(›Ù¯8í›ô‡œ2J$222dbfe4-e665-4f64-99e3-6f45a7c6984c
+™
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8í›ô‡œ2J$e0949f69-a20e-49b7-944b-07485cf07fbb
+©
+java:S1128"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ8í›ô‡œ2J$76f071c4-fee6-4a8e-811b-a75e564a51f0

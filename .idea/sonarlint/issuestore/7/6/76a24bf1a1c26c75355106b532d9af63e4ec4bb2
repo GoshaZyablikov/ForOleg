@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëª÷èúÿÿÿÿ8Î›Ê¹œ2J$3ffaac65-8ab7-4e28-820f-c1451bdce12f
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8â›Ê¹œ2J$2c2b468c-6854-4a9a-8e5d-cb65ee5298fa
+}
+java:S1068":Remove this unused "personnelFlightService" private field.(Ÿëý‘8ä›Ê¹œ2J$18259054-2ec7-4771-bd46-bf40ce6b8e76
